@@ -1,4 +1,4 @@
-# Fitness Chatbot Portfolio  
+# Fitness Chatbot 
 
 **WEB Project - Spring 2024**  
 Daffodil International University | 1st Semester  
